@@ -1,0 +1,16 @@
+This is a critical message to ammend to a previous commit along with this new file.
+
+Commit #2 during squash activity.
+
+Commit #3 during squash activity.
+
+Commit #4 during squash activivity
+
+Commit #5 during squash activivity
+
+Commit #6 during squash activivity
+
+Commit #7 during squash activivity
+
+
+Commit #8 during squash activivity
